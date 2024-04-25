@@ -83,4 +83,4 @@
 This timeline is an estimation and can vary based on various factors including technical complexities, personal proficiency, and the learning curve associated with new tools and technologies. Regular breaks and time for self-education should also be factored into your planning.
 
 This table provides a structured timeline to guide the development of the project.
-
+#(Canceled)
